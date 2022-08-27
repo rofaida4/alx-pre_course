@@ -1,2 +1,1 @@
-$git add up_to_date
-$git pull
+git pull https://github.com/rofaida4/alx-pre_course.git
